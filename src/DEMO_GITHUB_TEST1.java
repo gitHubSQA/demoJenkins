@@ -24,6 +24,12 @@ public class DEMO_GITHUB_TEST1 {
 		System.out.println("Test2");	
 	}
 	
+	@Test
+	public void unitTest_Test3(){
+		System.out.println("Test3");	
+		
+	}
+	
 	
 	@AfterMethod
 	public boolean unitTest_End(){
